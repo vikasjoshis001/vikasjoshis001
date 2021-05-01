@@ -1,5 +1,5 @@
 ### Hi there I'm Vikas:wave:
-![visitors](https://visitor-badge.glitch.me/badge?$%7Bvikasjoshis001%7D=${vikasjoshis001}.${your.repo.id})
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${vikasjoshis001})
 <!--
 unfixedbug/unfixedbug is a :sparkles: special :sparkles: repository because its README.md (this file) appears on your GitHub profile.
 
